@@ -11,12 +11,12 @@
     <div class="my-container mt-3">
 
       <div class="flag_img_cnt">
-        <a href="#">
+        <a href="/it/careers">
           <img class="img-fluid" src="https://www.gettysburgflag.com/media/catalog/product/cache/2/thumbnail/520x416/602f0fa2c1f0d1ba5e241f914e856ff9/i/t/italy.jpg" alt="">
         </a>
       </div>
       <div class="flag_img_cnt">
-        <a href="#">
+        <a href="/en/careers">
           <img class="img-fluid" src="https://images-na.ssl-images-amazon.com/images/I/419RsYi16FL._SX355_.jpg" alt="">
         </a>
       </div>

@@ -1,5 +1,7 @@
 <?php
 return [
+  'titleSection' => 'E...<strong>dopo</strong> il corso?',
+
   'paragraph' => 'I corsi Boolean ti danno solide basi per iniziare la tua carriera nel web development. Questa è una breve lista delle professioni più ricercate a cui potrai ambire una volta terminato il corso, abbiamo aggiunto anche le retribuzioni medie del mercato Italiano per profili "junior" ovvero con anzianità nel ruolo compresa tra 0 e 3 anni.',
 
   'salary' => 'retribuzione annua lorda',
