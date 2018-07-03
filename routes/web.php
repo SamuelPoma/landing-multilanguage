@@ -11,4 +11,8 @@
 |
 */
 
-Route::get('/careers', 'CareersController@index')->name('careers');
+Route::group(['prefix' => LaravelLocalization::setLocale()], function()
+{
+	/** ADD ALL LOCALIZED ROUTES INSIDE THIS GROUP **/
+  Route::get('/careers', 'CareersController@index')->name('careers');
+});
